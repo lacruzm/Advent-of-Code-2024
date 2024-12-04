@@ -1,0 +1,28 @@
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\appsettings.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\Advent of Code 2024.staticwebassets.endpoints.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\Advent of Code 2024.exe
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\Advent of Code 2024.deps.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\Advent of Code 2024.runtimeconfig.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\Advent of Code 2024.dll
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\bin\Debug\net9.0\Advent of Code 2024.pdb
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\scopedcss\bundle\Advent of Code 2024.styles.css
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets\msbuild.Advent of Code 2024.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets\msbuild.Advent of Code 2024.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets\msbuild.build.Advent of Code 2024.props
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Advent of Code 2024.props
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Advent of Code 2024.props
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.dll
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\refint\Advent of Code 2024.dll
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.pdb
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\Advent of Code 2024.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Advent of Code 2024\Advent of Code 2024\obj\Debug\net9.0\ref\Advent of Code 2024.dll
