@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Http.Features;
 class Day5
 {
 
-    static void Main(string[] args)
+   /* static void Main(string[] args)
     {
         var builder = WebApplication.CreateBuilder(args);
         String path = "C:\\Users\\usuario\\Desktop\\input.txt";
@@ -19,7 +19,7 @@ class Day5
 
 
 
-    }
+    }*/
     public static int Day5FirstProblem(string path)
     {
         int result = 0;
